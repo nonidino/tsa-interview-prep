@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+tiktoken
+langchain-groq
+langchain-core
+groq
+streamlit-mic-recorder
+openai
