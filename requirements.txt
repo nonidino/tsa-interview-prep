@@ -1,5 +1,6 @@
 streamlit
 PyPDF2
+pycryptodome
 tiktoken
 langchain-groq
 langchain-core
